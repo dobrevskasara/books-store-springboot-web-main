@@ -1,0 +1,1 @@
+Testing application from: https://github.com/ricky03knowhere/books-store-springboot-web/tree/main
